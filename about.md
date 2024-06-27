@@ -1,0 +1,5 @@
+Hello, and welcome to my project that I am working on. It is bascially a project that has multiple functions. 
+Some are stupid and some are pretty cool. But, I really hoep that you enjoy it. 
+
+Updates to the project make take some time, depending on how much of a hassle they are to add. This project is not paid, and will always be free. 
+Some features might be a bit more crazy than others, but it is more job to use them with responsiblity. Also, I am learning C, so, there might be quite a few bugs, and some I may not catch. The changelog will be added to the program, so, you will be able to check that to see any updates or changes made to the program.
